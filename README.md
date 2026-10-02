@@ -43,6 +43,7 @@ Curated Rust-first AI tooling extracted from `docs/` (ChatGPT and Gemini notes).
 | ArchGW | Envoy-based proxy adding routing/guardrails for agentic apps. | — | [archgw.com](https://www.archgw.com) |
 | HyperMCP | MCP server with Wasm plugin model for tool hosting. | [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) | — |
 | AgentFS | Turso-backed “filesystem” for persisting agent state and artifacts. | [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) | [docs.turso.tech/agentfs](https://docs.turso.tech/agentfs/introduction) |
+| Hyperconsciousness | Developer-alpha Rust knowledge store with encrypted, append-only records, scoped expiring grants, and CLI/MCP/HTTP access. | [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | — |
 | Browser Agent | Headless browser control layer so LLMs can operate real web pages. | [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) | — |
 | Terminator | AI-driven desktop automation SDK for GUI apps. | [mediar-ai/terminator](https://github.com/mediar-ai/terminator) | — |
 | Chidori | Rust runtime/IDE for durable, debuggable long-running agents. | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | — |
